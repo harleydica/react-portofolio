@@ -156,6 +156,7 @@ export default function Home() {
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
+                alt="web1"
                 src={web1}
               />
             </div>
@@ -165,6 +166,7 @@ export default function Home() {
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
+                alt="web2"
                 src={web2}
               />
             </div>
@@ -174,6 +176,7 @@ export default function Home() {
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
+                alt="web3"
                 src={web3}
               />
             </div>
@@ -183,6 +186,7 @@ export default function Home() {
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
+                alt="web4"
                 src={web4}
               />
             </div>
@@ -192,6 +196,7 @@ export default function Home() {
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
+                alt="web5"
                 src={web5}
               />
             </div>
@@ -201,6 +206,7 @@ export default function Home() {
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
+                alt="web6"
                 src={web6}
               />
             </div>
